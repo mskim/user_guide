@@ -4,203 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0797953ebdd236b9",
+        "id": "2e807de5d6c95031",
         "type": "tabs",
         "children": [
           {
-            "id": "ea0a7335df0abaef",
+            "id": "16920a460e2951e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "071e3ae206c98db2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "466a009103277b85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c4ba09f63a97815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "117bdb68fc2ed1d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef46e79c3ad2307b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a68e54b96787ac35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2c3bd28958a4a68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb1a7e79d9127637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5_2 이미지 추가하기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31f49f66f8c0e8e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d732bade2052a57a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1de8a343fbed9c6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "592621e0d9f02454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fc447425c60c08d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6bb9deb3661687f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0_목차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1e1b25c8ada9c78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11_인디자인 파일 활용하기.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -335,34 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31f49f66f8c0e8e6",
+  "active": "bbaab7d45dbcfd49",
   "lastOpenFiles": [
-    "12_저떤거.md",
+    "0_목차.md",
+    "demo.png",
     "11_인디자인 파일 활용하기.md",
-    "upload_image.jpg.md",
+    "1_1_등록하기.md",
+    "2_5_선텍된 페이지.md",
+    "2_2_1 새로운책 만들기.md",
+    "2_1_1_내서제.md",
+    "1_0_북치고의  기본개념.md",
     "5_2 이미지 추가하기.md",
     "edit_paragraph.jpg.md",
-    "5_1  페이지 수정하기.md",
-    "0_목차.md",
-    "paragraph_editing.md",
-    "4_2 도규멘트 단락 스타일 수정.md",
-    "4_4 도규멘트 페이지번호 수정하기.md",
-    "5_2.md",
-    "4_3 도규멘트 레이아웃 수정 하기.md",
-    "4_0 도큐멘트란?(What is document?).md",
-    "4_1 도규멘트 내용 수정하기.md",
+    "edit_paragraph.png",
+    "2_책의 구성.md",
     "2_4_선택된 도규멘트.md",
-    "create_new_book.jpg.md",
-    "2_2_1 새로운책 만들기.md",
-    "2_2_나의책.md",
-    "2_5_선텍된 페이지.md",
     "2_3_선택된책.md",
-    "selectted_book.jpg.md",
-    "my_books.jpg.md",
-    "2_1_등록하기.md",
     "README.md",
-    "9_목자 만들기.md",
-    "7_도비라 디자인.md",
+    "image_selecting.png",
+    "image_.png",
+    "5_1  페이지 수정하기.md",
+    "4_4 도규멘트 페이지번호 수정하기.md",
+    "4_3 도규멘트 레이아웃 수정 하기.md",
+    "4_2 도규멘트 단락 스타일 수정.md",
+    "4_1 도규멘트 내용 수정하기.md",
+    "4_0 도큐멘트란?(What is document?).md",
+    "edit_chapter.png",
+    "image_delete.png",
+    "image_upload_result.png",
+    "image_upload.png",
+    "paragraph_edit.png",
+    "chapter_edit.png",
+    "12_저떤거.md",
+    "upload_image.jpg.md",
+    "paragraph_editing.md",
+    "5_2.md",
+    "create_new_book.jpg.md",
+    "selectted_book.jpg.md",
     "myfolder"
   ]
 }
