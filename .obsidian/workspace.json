@@ -11,8 +11,12 @@
             "id": "16920a460e2951e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "9. 인디자인 파일 활용하기.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9. 인디자인 파일 활용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9. 인디자인 파일 활용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9. 인디자인 파일 활용하기.md"
+              }
             }
           }
         ]
@@ -146,43 +154,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbaab7d45dbcfd49",
+  "active": "16920a460e2951e0",
   "lastOpenFiles": [
-    "0_목차.md",
-    "demo.png",
-    "11_인디자인 파일 활용하기.md",
+    "8. 용어정의.md",
+    "7. 표지 디자인.md",
+    "6. 목차 만들기.md",
+    "5.  판권 내용 수정.md",
+    "4. 도비라 디자인.md",
+    "3.5 선택한 페이지.md",
+    "3.4 도큐멘트 상하 페이지번호 수정하기.md",
+    "3.2 도큐멘트 단락 스타일 수정.md",
+    "3.3 도큐멘트 레이아웃 수정 하기.md",
+    "3.1 도큐멘트 내용 수정하기.md",
+    "3.0 도큐멘트란?.md",
+    "2.3 선택한 책.md",
+    "2.2 새로운 책 만들기.md",
+    "2.1 내서재.md",
+    "2.0 책의 구성.md",
+    "1.1 등록하기 (회원가입).md",
+    "1.0 북치고의  기본개념.md",
+    "0. 목차.md",
+    "2_3_선택된 책.md",
+    "images/Screen Shot 2023-09-03 at 6.46.06 AM.png",
+    "images/Screen Shot 2023-09-03 at 6.44.04 AM.png",
+    "images/Screen Shot 2023-09-03 at 6.40.40 AM.png",
+    "images/Screen Shot 2023-09-03 at 6.30.13 AM.png",
+    "images/Screen Shot 2023-09-03 at 6.29.53 AM.png",
+    "images/Screen Shot 2023-09-03 at 11.12.41 PM.png",
+    "images/Screen Shot 2023-09-03 at 11.12.19 PM.png",
+    "images/Screen Shot 2023-09-03 at 11.08.00 PM.png",
+    "images/Screen Shot 2023-09-03 at 11.06.01 PM.png",
+    "images/Screen Shot 2023-09-03 at 11.02.35 PM.png",
+    "9. 인디자인 파일 활용하기.md",
+    "2_2_1 새로운 책 만들기.md",
+    "2_1_1_내서재.md",
     "1_1_등록하기.md",
-    "2_5_선텍된 페이지.md",
-    "2_2_1 새로운책 만들기.md",
-    "2_1_1_내서제.md",
     "1_0_북치고의  기본개념.md",
-    "5_2 이미지 추가하기.md",
-    "edit_paragraph.jpg.md",
-    "edit_paragraph.png",
-    "2_책의 구성.md",
-    "2_4_선택된 도규멘트.md",
-    "2_3_선택된책.md",
-    "README.md",
-    "image_selecting.png",
-    "image_.png",
-    "5_1  페이지 수정하기.md",
-    "4_4 도규멘트 페이지번호 수정하기.md",
-    "4_3 도규멘트 레이아웃 수정 하기.md",
-    "4_2 도규멘트 단락 스타일 수정.md",
-    "4_1 도규멘트 내용 수정하기.md",
-    "4_0 도큐멘트란?(What is document?).md",
-    "edit_chapter.png",
-    "image_delete.png",
-    "image_upload_result.png",
-    "image_upload.png",
-    "paragraph_edit.png",
-    "chapter_edit.png",
-    "12_저떤거.md",
-    "upload_image.jpg.md",
-    "paragraph_editing.md",
-    "5_2.md",
-    "create_new_book.jpg.md",
-    "selectted_book.jpg.md",
+    "0_목차.md",
+    "9_목차 만들기.md",
+    "images",
     "myfolder"
   ]
 }
